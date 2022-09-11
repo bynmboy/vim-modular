@@ -1,6 +1,6 @@
 <h1 align="center">Vim Modular Configuration</h1>
 
-<p align="cente">This is a setup with vim, using modular vimscript files</p>
+<p align="center">This is a setup with vim, using modular vimscript files</p>
 <hr>
 
 <p align="center">
