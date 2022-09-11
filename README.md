@@ -4,6 +4,7 @@
 <hr>
 
 <p align="center">*** the vimrc file needs to be renamed to .vimrc and the vim folder needs to be renamed to .vim and placed in the $HOME folder</p>
+<p align="center">See project files for more details</p>
 <hr>
 
 <p align="center">
