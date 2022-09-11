@@ -1,0 +1,29 @@
+" This setup is made by me (Fabio Carneiro) 
+" based on how we do a complete setup with
+" Neovim when we use lua file, i was inspirated
+" by this concept to made this setup, maybe
+" in future, i update this configuration to work with 
+" the news of Vim9.
+" 
+" On this configuration, i use vim-gtk3, i really like
+" GVim, maybe something doesn't work well on your
+" environment, please, consider adjusting for your reality.
+"
+" This configuration use Vim-Plug to install plugins,
+" you will need git, curl, python, node and more.
+"
+" please install this on your environment.
+" Sincerely, Fabio Carneiro.
+"-----------------------------------------------------------------
+
+" File designated to maintain plugins 
+" who are install in Vim
+source .vim/plugins.vim
+
+" File designated to hold the configuration
+" that tells how Vim should work
+source .vim/config.vim
+
+" File designated to hold keyboard shortcuts
+" configuration 
+source .vim/binds.vim
