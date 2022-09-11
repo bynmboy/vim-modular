@@ -3,7 +3,7 @@
 <p align="center">This is a setup with vim, using modular vimscript files</p>
 <hr>
 
-<p align="center">*** The vimrc, need rename to .vimrc and vim folder need rename to .vim and put that file and folder on your $HOME folder</p>
+<p align="center">*** the vimrc file needs to be renamed to .vimrc and the vim folder needs to be renamed to .vim and placed in the $HOME folder</p>
 <hr>
 
 <p align="center">
